@@ -1,0 +1,23 @@
+{
+  "name": "larmda",
+  "version": "1.0.0",
+  "description": "Package that stores all the dev taks of the larmda academy",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Goodness Mbakara",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.9",
+    "express": "^4.18.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.13"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Goodnessmbakara/express-app.git"
+  }
+}
